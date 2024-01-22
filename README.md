@@ -25,4 +25,7 @@ Still in development...
 ## Screen
 
 - Home e página de detalhes do produtos
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/ztEHKTQ"  ><a href="//imgur.com/a/ztEHKTQ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+  <blockquote class="imgur-embed-pub" lang="en" data-id="eREsVyS"><a href="https://imgur.com/eREsVyS">View post on imgur.com</a></blockquote>
+  <blockquote class="imgur-embed-pub" lang="en" data-id="zedmFTC"><a href="https://imgur.com/zedmFTC">View post on imgur.com</a></blockquote>
+  <blockquote class="imgur-embed-pub" lang="en" data-id="JdBb0sx"><a href="https://imgur.com/JdBb0sx">View post on imgur.com</a></blockquote>
+  
