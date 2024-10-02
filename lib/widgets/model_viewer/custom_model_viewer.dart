@@ -12,10 +12,11 @@ class CustomModelViewer extends StatelessWidget {
       backgroundColor: grayPrimary,
       src: customSRC,
       //alt: 'A 3D model of an astronaut',
+      arModes: ['scene-viewer', 'webxr', 'quick-look'],
       ar: true,
       autoRotate: true,
       cameraControls: true,
-      //disableZoom: true,
+      disableZoom: false,
     );
   }
 }
