@@ -30,5 +30,10 @@ Still in development...
 |---|---|---|
 
 
+<p align="center">
+  <img src="https://i.imgur.com/eREsVyS.jpg" width="30%">
+  <img src="https://i.imgur.com/zedmFTC.jpg" width="30%">
+  <img src="https://i.imgur.com/JdBb0sx.jpg" width="30%">
+</p>
 
   
