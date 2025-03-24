@@ -24,16 +24,10 @@ Still in development...
 
 ## Screen
 
-
-- Home e página de detalhes do produtos
-| ![Imagem 1](https://i.imgur.com/eREsVyS.jpg) | ![Imagem 2](https://i.imgur.com/zedmFTC.jpg) | ![Imagem 3](https://i.imgur.com/JdBb0sx.jpg) |
-|---|---|---|
-
-
 <p align="center">
+  <img src="https://i.imgur.com/JdBb0sx.jpg" width="30%">
   <img src="https://i.imgur.com/eREsVyS.jpg" width="30%">
   <img src="https://i.imgur.com/zedmFTC.jpg" width="30%">
-  <img src="https://i.imgur.com/JdBb0sx.jpg" width="30%">
 </p>
 
   
