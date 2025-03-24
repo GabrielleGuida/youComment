@@ -30,6 +30,6 @@ Still in development...
   <img src="https://i.imgur.com/zedmFTC.jpg" width="25%">
 </p>
 
-![Vídeo como GIF](https://i.imgur.com/lYKiM7Q.gifv)
+![Vídeo como GIF](https://i.imgur.com/lYKiM7Q.gif)
 
   
