@@ -24,10 +24,11 @@ Still in development...
 
 ## Screen
 
-![Descrição da Imagem](https://i.imgur.com/zedmFTC.jpg)
 
 - Home e página de detalhes do produtos
-  <blockquote class="imgur-embed-pub" lang="en" data-id="eREsVyS"><a href="https://imgur.com/eREsVyS">View post on imgur.com</a></blockquote>
-  <blockquote class="imgur-embed-pub" lang="en" data-id="zedmFTC"><a href="https://imgur.com/zedmFTC">View post on imgur.com</a></blockquote>
-  <blockquote class="imgur-embed-pub" lang="en" data-id="JdBb0sx"><a href="https://imgur.com/JdBb0sx">View post on imgur.com</a></blockquote>
+| ![Imagem 1](https://i.imgur.com/eREsVyS.jpg) | ![Imagem 2](https://i.imgur.com/zedmFTC.jpg) | ![Imagem 3](https://i.imgur.com/JdBb0sx.jpg) |
+|---|---|---|
+
+
+
   
