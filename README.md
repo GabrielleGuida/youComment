@@ -19,9 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 
 The app was created with the aim of exploring 3D tools and augmented reality. (O app foi criado com o intuito de explorar ferramentas 3D e realidade aumentada.)
 
-Still in development...
-(Ainda em desenvolvimento...)
-
 ## Screen
 
 <p align="center">
