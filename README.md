@@ -27,7 +27,7 @@ The app was created with the aim of exploring 3D tools and augmented reality. (O
   <img src="https://i.imgur.com/zedmFTC.jpg" width="25%">
 </p>
 
-[Imgur](https://i.imgur.com/lYKiM7Q.gif)
+![GIF](https://i.imgur.com/lYKiM7Q.gif).
 
 
   
